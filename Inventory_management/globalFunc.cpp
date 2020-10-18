@@ -164,11 +164,11 @@ void store::main_menu()
 		    case 1: sellingProduct();
 			        break;
 
-			// functions related to product
+			// functions related to the product
 		    case 2: productOptions();
 			        break;
 
-			// display inventory
+			// functions related to the inventory
 		    case 3: inventoryOptions();
 			        break;
 

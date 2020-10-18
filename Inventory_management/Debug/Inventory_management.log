@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (store_management.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  ProductOptions.cpp
+  Inventory_management.vcxproj -> C:\Users\asus\Documents\c++ projects\projet2\Inventory_management\Debug\Inventory_management.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Inventory_management.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  sellingFunc.cpp
+C:\Users\asus\Documents\c++ projects\projet2\Inventory_management\Inventory_management\sellingFunc.cpp(50,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\asus\Documents\c++ projects\projet2\Inventory_management\Inventory_management\sellingFunc.cpp(51,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Inventory_management.vcxproj -> C:\Users\asus\Documents\c++ projects\projet2\Inventory_management\Debug\store_management.exe
